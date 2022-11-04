@@ -1,0 +1,11 @@
+hello world!
+hello world!
+hello world!
+hello world!
+hello world!
+
+This is hot-fix branch
+master test
+hot-fix test
+
+some new changes
